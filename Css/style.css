@@ -989,6 +989,7 @@ header .meta .links li i {
     display: inline-block;
     height: 30px;
     background-color: var(--main-color);
+    transition: 1s;
 }
 
 .skills .skill li p::before {
